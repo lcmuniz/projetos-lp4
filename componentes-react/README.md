@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Componentes React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é utilizado para explicar como definir e utilizar componentes react
 
 ## Available Scripts
 
